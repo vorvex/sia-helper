@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "schillingroofbarhd"
+  },
+  "targets": {
+    "schillingroofbarhd": {
+      "hosting": {
+        "sia-test-gastronaut": [
+          "sia-test-gastronaut"
+        ]
+      }
+    }
+  }
+}
